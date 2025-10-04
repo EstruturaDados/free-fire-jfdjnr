@@ -55,7 +55,7 @@ void removerItem() {
     }
 
     if (!encontrado) {
-        printf("❌ Item não encontrado na mochila.\n");
+        printf(" Item não encontrado na mochila.\n");
     }
 }
 
